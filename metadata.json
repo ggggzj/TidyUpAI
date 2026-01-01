@@ -1,0 +1,7 @@
+{
+  "name": "TidyAI - Your Smart Organizing Assistant",
+  "description": "An AI-powered home organization app that analyzes your room's clutter and provides step-by-step tidying instructions and product recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
